@@ -64,6 +64,9 @@ venv\Scripts\activate     # Windows
 3. Instale as dependências
 pip install -r requirements.txt
 
+4 . Chave OpenAI
+no arquivo chave_openai cole sua chave
+
 ## Executa o programa principal
 python main.py
 ```
