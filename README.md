@@ -12,6 +12,9 @@ O sistema entende a intenção, busca nos bancos de dados corretos e retorna uma
 
 ---
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b0350762-4fe2-42e1-a275-ccf2f363755f" />
+
+
 ## 🏗️ Arquitetura
 
 A aplicação é dividida em módulos para manter a organização e facilitar a evolução:
